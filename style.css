@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background: rgb(235, 208, 235)
+}
+
+.header {
+  margin: 20px;
+  text-align: center;
+  font: bold 50px Impact;
+  font-size: 50px;
+  color: rgb(11, 53, 73);
+}
+
+.button {
+  width: 60px;
+  height: 60px;
+  border: 2px solid black;
+  padding: 0;
+  display: block;
+  float: left;
+}
+
+.row {
+  height: 60px;
+  padding: 0;
+  margin-left: 50px;
+}
+
+.textdiv {
+  margin-top: 300px;
+}
+
+.text {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  overflow: hidden;
+  font: 35px Impact;
+  color: rgb(11, 53, 73);
+}
+
+#game-area{
+  float: left;
+  display: block;
+}
