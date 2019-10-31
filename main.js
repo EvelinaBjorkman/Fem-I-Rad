@@ -3,7 +3,7 @@ const turnCounter = document.querySelector('#turn-counter')
 const player = document.querySelector('#turn')
 const buttonsArray = []
 let turns = 0
-const numberOfButtons = 12
+const numberOfButtons = 25
 let buttonsDisabled = false
 
 for (let y = 0 ; y < numberOfButtons ; y++) {

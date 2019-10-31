@@ -12,8 +12,8 @@ body {
 }
 
 .button {
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   border: 2px solid black;
   padding: 0;
   display: block;
@@ -21,7 +21,7 @@ body {
 }
 
 .row {
-  height: 60px;
+  height: 30px;
   padding: 0;
   margin-left: 50px;
 }
